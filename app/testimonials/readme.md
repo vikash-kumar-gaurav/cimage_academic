@@ -1,0 +1,1 @@
+add the testenominal things in the page just the images and the content and the user details

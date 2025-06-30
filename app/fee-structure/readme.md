@@ -1,0 +1,1 @@
+here we have to write the fee structure for the all teh courses
