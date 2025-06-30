@@ -303,7 +303,7 @@ import React from 'react'
 
 const Admission = () => {
   return (
-    <div>Admission Page</div>
+    <div>Admission Page   </div>
   )
 }
 
